@@ -1,0 +1,8 @@
+Add functionality to track and restore removed friends
+
+Integrate database storage for removal history using Drizzle ORM, including new schemas and operations for adding, retrieving, and marking friend removals.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: d8cbe6c0-b6de-4de9-aac4-25fd4604bb5c
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/6e53a720-a7f6-4997-b038-3748f5fb394f/d8cbe6c0-b6de-4de9-aac4-25fd4604bb5c/fVwXozY
